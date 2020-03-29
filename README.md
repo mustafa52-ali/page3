@@ -1,3 +1,3 @@
 # page3
 html,page
-linkhttps://mustafa52-ali.github.io/page3/.
+link https://mustafa52-ali.github.io/page3/.
